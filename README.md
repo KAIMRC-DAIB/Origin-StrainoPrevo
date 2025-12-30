@@ -1,10 +1,10 @@
 # Bioinformatics Analysis of Blood Isolates of *Klebsiella pneumoniae* Using Kleborate​
 
 **Aim**
-To dentify and quantify the prevalence of the most common Klebsiella pneumoniae strains across a blood isolates dataset.​
+To dentify and quantify the prevalence of the most common *Klebsiella pneumoniae* strains across a blood isolates dataset.​
 
 **Bioinformatics Team Objectives**
-* Standardize a rapid, reproducible pipeline for K.p analysis.​
+* Standardize a rapid, reproducible pipeline for *K.p* analysis.​
 * Produce consistent outputs: such as species ID, virulence score, AMR score..etc​
 * Enable quick turnaround for infection control units and translational teams.
   ​
